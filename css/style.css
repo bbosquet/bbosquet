@@ -1,0 +1,15 @@
+h1{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 4em;
+    text-align: center;
+    color: #69d1ff;
+    font-weight: 400;
+}
+
+p{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.red{
+    color: red;
+}
